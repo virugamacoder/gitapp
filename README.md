@@ -30,6 +30,9 @@ GitApp is a web application built using React that provides users with the funct
 - Firebase: For user authentication and account management.
 - GitHub API: To fetch repository and user details based on GitHub usernames.
 
+## Live Website
+Check out the live website [here](https://mygitapp-4ced9.web.app).
+
 ## Project Setup and Deployment
 
 To run the project locally, follow these steps:
@@ -41,12 +44,13 @@ To run the project locally, follow these steps:
 5. Install project dependencies using `npm install`.
 6. Run the app locally with `npm start`.
 
+
+## Screenshots
+![Main Photo](https://github.com/virugama/gitapp/assets/89926772/03cf2428-a311-41f1-b5ca-a06e7c2b4b53)
+
 ## Contributing
 
 If you would like to contribute to the GitApp project, please fork the repository, make your changes, and submit a pull request with a detailed description of your updates.
-
-
-
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
