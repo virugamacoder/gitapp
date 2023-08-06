@@ -1,8 +1,8 @@
-# GitApp - A React Website with Firebase Authentication and GitHub Integration
+# GitApp - A React Website with Firebase Authentication and GitHub Integration 
 
-GitApp is a web application built using React that provides users with the functionality to sign up and sign in using Firebase authentication. Once logged in, users can search for a GitHub username and view the corresponding GitHub repositories and user details using the GitHub API.
+🚀 GitApp is a web application built using React that provides users with the functionality to sign up and sign in using Firebase authentication. Once logged in, users can search for a GitHub username and view the corresponding GitHub repositories and user details using the GitHub API.
 
-## Key Features
+## 🔑 Key Features
 
 - **Firebase Authentication:** Secure user registration and login functionality powered by Firebase Authentication. Users can create an account, sign in with their credentials, and access the app's features.
 
@@ -12,7 +12,7 @@ GitApp is a web application built using React that provides users with the funct
 
 - **GitHub User Details:** In addition to repository details, the app also presents essential GitHub user information, including their profile picture, bio, followers etc.
 
-## How to Use
+## 📖 How to Use
 
 1. **Sign Up / Sign In:** Users can create a new account or sign in using their existing account.
 
@@ -24,16 +24,16 @@ GitApp is a web application built using React that provides users with the funct
 
 5. **Log Out:** Users can log out of their account to secure their session and data.
 
-## Technologies Used
+## 💻 Technologies Used
 
 - React: For building the user interface and managing the application's frontend.
 - Firebase: For user authentication and account management.
 - GitHub API: To fetch repository and user details based on GitHub usernames.
 
-## Live Website
+## 🌐 Live Website
 Check out the live website [here](https://mygitapp-4ced9.web.app).
 
-## Project Setup and Deployment
+## 🛠️ Project Setup and Deployment
 
 To run the project locally, follow these steps:
 
@@ -45,10 +45,10 @@ To run the project locally, follow these steps:
 6. Run the app locally with `npm start`.
 
 
-## Screenshots
+## 📷 Screenshots
 ![Main Photo](https://github.com/virugama/gitapp/assets/89926772/03cf2428-a311-41f1-b5ca-a06e7c2b4b53)
 
-## Contributing
+## 🤝 Contributing
 
 If you would like to contribute to the GitApp project, please fork the repository, make your changes, and submit a pull request with a detailed description of your updates.
 
